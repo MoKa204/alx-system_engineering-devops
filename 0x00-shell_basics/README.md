@@ -7,3 +7,4 @@ ls -na: display all the contents including hiddens in a numeric pattern
 mkdir: create new directory
 mv
 rmdir: to remove the directory
+cd ../: Back to the previous directory
