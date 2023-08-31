@@ -9,3 +9,4 @@ mv
 rmdir: to remove the directory
 cd ../: Back to the previous directory
 ls [flag] [directory]: list any directory
+file: show the file type
