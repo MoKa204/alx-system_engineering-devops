@@ -1,2 +1,2 @@
-0   string   SCHOOL   decent school
-!:mime text/School
+0   string   SCHOOL   School data
+!:mime text/plain
