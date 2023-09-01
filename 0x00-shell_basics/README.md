@@ -11,3 +11,4 @@ cd ../: Back to the previous directory
 ls [flag] [directory]: list any directory
 file: show the file type
 ls -s: create a symbolic link
+ls -s: create a symbolic link
